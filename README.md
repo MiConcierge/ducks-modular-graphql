@@ -1,7 +1,8 @@
 # Ducks: A ducks implementation to Graphql
 
 TODO: Description
-Use with Schema stitching
+Use with [Schema stitching](https://www.apollographql.com/docs/graphql-tools/schema-stitching.html)
+and [Facebook/Dataloader](https://github.com/facebook/dataloader)
 
 ## The Proposal
 
