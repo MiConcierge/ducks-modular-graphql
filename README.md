@@ -11,6 +11,7 @@ and [Facebook/Dataloader](https://github.com/facebook/dataloader)
 
 ```javascript
 import DataLoader from 'dataloader'
+import { makeExecutableSchema } from 'graphql-tools'
 
 import Author from '../models/author'
 import Post from '../models/post'
