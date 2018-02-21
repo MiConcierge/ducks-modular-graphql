@@ -1,6 +1,7 @@
 # Ducks: A ducks implementation to Graphql
 
 TODO: Description
+Based on [erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)
 Use with [Schema stitching](https://www.apollographql.com/docs/graphql-tools/schema-stitching.html)
 and [Facebook/Dataloader](https://github.com/facebook/dataloader)
 
