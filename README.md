@@ -59,7 +59,7 @@ const resolvers = {
   }
 }
 
-// Action Creators
+// Logic Resolvers
 export function author (_, { id }) {
   return Author.find({ id: id })
 }
